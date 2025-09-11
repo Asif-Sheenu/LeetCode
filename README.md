@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Asif-Sheenu/LeetCode/tree/master/0001-two-sum) |
 | [2058-concatenation-of-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/Asif-Sheenu/LeetCode/tree/master/0742-to-lower-case) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Asif-Sheenu/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
