@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/0009-palindrome-number) |
+| [0371-sum-of-two-integers](https://github.com/Asif-Sheenu/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/Asif-Sheenu/LeetCode/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Asif-Sheenu/LeetCode/tree/master/3226-minimum-number-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Asif-Sheenu/LeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
