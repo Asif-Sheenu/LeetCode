@@ -1,0 +1,6 @@
+
+var addStrings = function(num1, num2) {
+ let a= BigInt(num1)+BigInt(num2)
+
+ return a.toString()
+};
