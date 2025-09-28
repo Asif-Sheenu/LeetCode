@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/Asif-Sheenu/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Asif-Sheenu/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Asif-Sheenu/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Asif-Sheenu/LeetCode/tree/master/2383-add-two-integers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Asif-Sheenu/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/Asif-Sheenu/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Asif-Sheenu/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Asif-Sheenu/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Asif-Sheenu/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Asif-Sheenu/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Asif-Sheenu/LeetCode/tree/master/0782-jewels-and-stones) |
