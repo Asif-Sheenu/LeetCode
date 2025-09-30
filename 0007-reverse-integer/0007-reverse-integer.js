@@ -11,7 +11,6 @@ var reverse = function(x) {
         return 0;
     }
 
-    // Step 3: Return reversed number
     return reversed;
 };
 
