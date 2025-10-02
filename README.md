@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Asif-Sheenu/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Asif-Sheenu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Asif-Sheenu/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1797-goal-parser-interpretation](https://github.com/Asif-Sheenu/LeetCode/tree/master/1797-goal-parser-interpretation) |
 ## Hash Table
 |  |
 | ------- |
