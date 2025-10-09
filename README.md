@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Asif-Sheenu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Asif-Sheenu/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Asif-Sheenu/LeetCode/tree/master/2634-minimum-common-value) |
 | [3226-minimum-number-game](https://github.com/Asif-Sheenu/LeetCode/tree/master/3226-minimum-number-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Asif-Sheenu/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/Asif-Sheenu/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Asif-Sheenu/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Asif-Sheenu/LeetCode/tree/master/2235-capitalize-the-title) |
 ## Hash Table
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Asif-Sheenu/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Asif-Sheenu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/Asif-Sheenu/LeetCode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
