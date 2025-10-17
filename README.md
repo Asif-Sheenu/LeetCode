@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Asif-Sheenu/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Asif-Sheenu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2083-three-divisors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Asif-Sheenu/LeetCode/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asif-Sheenu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Asif-Sheenu/LeetCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Asif-Sheenu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Asif-Sheenu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Asif-Sheenu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
