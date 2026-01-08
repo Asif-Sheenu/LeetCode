@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asif-Sheenu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2083-three-divisors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Asif-Sheenu/LeetCode/tree/master/2383-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Asif-Sheenu/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2507-number-of-common-factors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Asif-Sheenu/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Asif-Sheenu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2396-strictly-palindromic-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/Asif-Sheenu/LeetCode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Asif-Sheenu/LeetCode/tree/master/0890-lemonade-change) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
