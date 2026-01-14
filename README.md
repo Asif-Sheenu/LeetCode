@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asif-Sheenu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asif-Sheenu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asif-Sheenu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asif-Sheenu/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asif-Sheenu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Asif-Sheenu/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Asif-Sheenu/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asif-Sheenu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Asif-Sheenu/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
