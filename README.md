@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Asif-Sheenu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Asif-Sheenu/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Asif-Sheenu/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Asif-Sheenu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Asif-Sheenu/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asif-Sheenu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Asif-Sheenu/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Asif-Sheenu/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Asif-Sheenu/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Asif-Sheenu/LeetCode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
