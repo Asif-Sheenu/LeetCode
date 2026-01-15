@@ -2,17 +2,11 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         freq_t = {}
         for i in t:
-            if i in freq_t:
-                freq_t[i]+=1
-            else :
-                freq_t[i]=1
+            freq_t[i] = freq_t.get(i,0)+1
 
         freq_s ={}
         for so in s:
-            if so in freq_s:
-                freq_s[so]+=1
-            else :
-                freq_s[so]=1
+            freq_s[so] = freq_s.get(so,0)+1
 
         return freq_s == freq_t
 
