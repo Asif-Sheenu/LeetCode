@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0890-lemonade-change](https://github.com/Asif-Sheenu/LeetCode/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Asif-Sheenu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Asif-Sheenu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Asif-Sheenu/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Asif-Sheenu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/0415-add-strings) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Asif-Sheenu/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Asif-Sheenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/Asif-Sheenu/LeetCode/tree/master/3226-minimum-number-game) |
