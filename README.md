@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Asif-Sheenu/LeetCode/tree/master/2383-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/Asif-Sheenu/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Asif-Sheenu/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2507-number-of-common-factors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2083-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/Asif-Sheenu/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2507-number-of-common-factors](https://github.com/Asif-Sheenu/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Greedy
