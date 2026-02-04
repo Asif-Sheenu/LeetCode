@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Asif-Sheenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Asif-Sheenu/LeetCode/tree/master/2634-minimum-common-value) |
+| [2706-buy-two-chocolates](https://github.com/Asif-Sheenu/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/Asif-Sheenu/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Asif-Sheenu/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asif-Sheenu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Asif-Sheenu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Asif-Sheenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2706-buy-two-chocolates](https://github.com/Asif-Sheenu/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/Asif-Sheenu/LeetCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Asif-Sheenu/LeetCode/tree/master/0890-lemonade-change) |
+| [2706-buy-two-chocolates](https://github.com/Asif-Sheenu/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Brainteaser
 |  |
 | ------- |
