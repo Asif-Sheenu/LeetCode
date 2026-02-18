@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Asif-Sheenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/Asif-Sheenu/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Asif-Sheenu/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3498-reverse-degree-of-a-string](https://github.com/Asif-Sheenu/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Asif-Sheenu/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Asif-Sheenu/LeetCode/tree/master/2235-capitalize-the-title) |
+| [3498-reverse-degree-of-a-string](https://github.com/Asif-Sheenu/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
