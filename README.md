@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Asif-Sheenu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Asif-Sheenu/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1748-sum-of-unique-elements](https://github.com/Asif-Sheenu/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Asif-Sheenu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Asif-Sheenu/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Asif-Sheenu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Asif-Sheenu/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Asif-Sheenu/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Asif-Sheenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Asif-Sheenu/LeetCode/tree/master/2634-minimum-common-value) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Asif-Sheenu/LeetCode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Asif-Sheenu/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
