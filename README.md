@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Asif-Sheenu/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Asif-Sheenu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Asif-Sheenu/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Asif-Sheenu/LeetCode/tree/master/0383-ransom-note) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Asif-Sheenu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Asif-Sheenu/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Asif-Sheenu/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Asif-Sheenu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asif-Sheenu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Asif-Sheenu/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
