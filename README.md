@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Asif-Sheenu/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Asif-Sheenu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Asif-Sheenu/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Asif-Sheenu/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Asif-Sheenu/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asif-Sheenu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/0136-single-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Asif-Sheenu/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asif-Sheenu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Asif-Sheenu/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
 ## Database
 | Problem Name | Difficulty |
