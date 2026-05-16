@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Asif-Sheenu/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/Asif-Sheenu/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Asif-Sheenu/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Asif-Sheenu/LeetCode/tree/master/0242-valid-anagram) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Asif-Sheenu/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Asif-Sheenu/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Asif-Sheenu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asif-Sheenu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Asif-Sheenu/LeetCode/tree/master/0242-valid-anagram) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Asif-Sheenu/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Asif-Sheenu/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1729-find-followers-count](https://github.com/Asif-Sheenu/LeetCode/tree/main/1729-find-followers-count/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Asif-Sheenu/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
