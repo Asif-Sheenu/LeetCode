@@ -5,7 +5,7 @@ class Solution:
         for i in prices:
             if i < mini:
                 mini=i
-            profit= max(profit,(i - mini))
+            profit= max(profit,i - mini)
         return profit 
         
     
