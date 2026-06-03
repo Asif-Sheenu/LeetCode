@@ -6,7 +6,7 @@ class Solution:
             if i < mini:
                 mini=i
             profit= max(profit,(i - mini))
-        return (profit) 
+        return profit 
         
     
        
