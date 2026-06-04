@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Asif-Sheenu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Asif-Sheenu/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/Asif-Sheenu/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Asif-Sheenu/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Asif-Sheenu/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Asif-Sheenu/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -252,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Asif-Sheenu/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Asif-Sheenu/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Asif-Sheenu/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
