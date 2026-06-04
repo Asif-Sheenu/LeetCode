@@ -12,5 +12,5 @@ class Solution:
             if s[i-k] in "aeiou":
                 count -=1
             best= max(best,count)
-        return (best)      
+        return best      
         
