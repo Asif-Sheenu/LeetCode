@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asif-Sheenu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Asif-Sheenu/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Asif-Sheenu/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/Asif-Sheenu/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Asif-Sheenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Asif-Sheenu/LeetCode/tree/master/2634-minimum-common-value) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asif-Sheenu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3945-digit-frequency-score](https://github.com/Asif-Sheenu/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 | [4008-restore-finishing-order](https://github.com/Asif-Sheenu/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Prefix Sum
 | Problem Name | Difficulty |
