@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asif-Sheenu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Asif-Sheenu/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Asif-Sheenu/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/Asif-Sheenu/LeetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Asif-Sheenu/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/Asif-Sheenu/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asif-Sheenu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Asif-Sheenu/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3895-count-digit-appearances](https://github.com/Asif-Sheenu/LeetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [4008-restore-finishing-order](https://github.com/Asif-Sheenu/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Simulation
 | Problem Name | Difficulty |
