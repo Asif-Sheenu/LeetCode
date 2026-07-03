@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Asif-Sheenu/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Asif-Sheenu/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Asif-Sheenu/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Asif-Sheenu/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2058-concatenation-of-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Asif-Sheenu/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Asif-Sheenu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Asif-Sheenu/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Asif-Sheenu/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Asif-Sheenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2706-buy-two-chocolates](https://github.com/Asif-Sheenu/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Asif-Sheenu/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Asif-Sheenu/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Asif-Sheenu/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Asif-Sheenu/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Asif-Sheenu/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0890-lemonade-change](https://github.com/Asif-Sheenu/LeetCode/tree/master/0890-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/Asif-Sheenu/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Asif-Sheenu/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Asif-Sheenu/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Brainteaser
 | Problem Name | Difficulty |
