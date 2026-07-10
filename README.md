@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Asif-Sheenu/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Asif-Sheenu/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asif-Sheenu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Asif-Sheenu/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Asif-Sheenu/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Asif-Sheenu/LeetCode/tree/master/2634-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/Asif-Sheenu/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2965-find-missing-and-repeated-values](https://github.com/Asif-Sheenu/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Asif-Sheenu/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3226-minimum-number-game](https://github.com/Asif-Sheenu/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Asif-Sheenu/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Asif-Sheenu/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Asif-Sheenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Asif-Sheenu/LeetCode/tree/master/2634-minimum-common-value) |
+| [2965-find-missing-and-repeated-values](https://github.com/Asif-Sheenu/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asif-Sheenu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/Asif-Sheenu/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 | [4008-restore-finishing-order](https://github.com/Asif-Sheenu/LeetCode/tree/master/4008-restore-finishing-order) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-richest-customer-wealth](https://github.com/Asif-Sheenu/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/Asif-Sheenu/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
