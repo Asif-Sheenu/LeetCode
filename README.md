@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Asif-Sheenu/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Asif-Sheenu/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Asif-Sheenu/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2032-two-out-of-three](https://github.com/Asif-Sheenu/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Asif-Sheenu/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2058-concatenation-of-array](https://github.com/Asif-Sheenu/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Asif-Sheenu/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asif-Sheenu/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Asif-Sheenu/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/Asif-Sheenu/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Asif-Sheenu/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Asif-Sheenu/LeetCode/tree/master/2634-minimum-common-value) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Asif-Sheenu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Asif-Sheenu/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Asif-Sheenu/LeetCode/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Asif-Sheenu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/Asif-Sheenu/LeetCode/tree/main/2032-two-out-of-three/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
